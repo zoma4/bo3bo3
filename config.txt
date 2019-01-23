@@ -1,6 +1,6 @@
 token=NTM3NTg2ODU3MzYyNDU2NTc4.Dyngng.t1d-JDDY_S8v7GXNCBXnIxBDspA
 owner=433198762706599936
 prefix=p1
-game= one is here ..
+game= ضحككايهة
 stayinchannel=true
 songinstatus=true 
