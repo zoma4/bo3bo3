@@ -1,6 +1,6 @@
-token=NTI2OTI1NTMyNzE0MjM3OTcy.DyerBg.bSRNP3FYkaU5XVq3jkuA0Atp_7g
+token=NTM3NTg2ODU3MzYyNDU2NTc4.Dyngng.t1d-JDDY_S8v7GXNCBXnIxBDspA
 owner=433198762706599936
-prefix=#
+prefix=p1
 game= one is here ..
 stayinchannel=true
 songinstatus=true 
