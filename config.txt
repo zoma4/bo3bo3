@@ -1,6 +1,6 @@
-token=NTM3NTg2ODU3MzYyNDU2NTc4.Dyngng.t1d-JDDY_S8v7GXNCBXnIxBDspA
-owner=433198762706599936
-prefix=p1
-game= ضحككايهة
+token=NTM5MTY3MDYwMjQ5MjgwNTEy.DzSfMQ.voP9SGVh3VeSWCd1HoXDiSlJP94
+owner=405449775219998720
+prefix=-
+game= 
 stayinchannel=true
 songinstatus=true 
