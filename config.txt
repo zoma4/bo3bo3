@@ -1,5 +1,4 @@
 token=NTM5MTY3MDYwMjQ5MjgwNTEy.DzSfMQ.voP9SGVh3VeSWCd1HoXDiSlJP94
-owner=405449775219998720
-prefix=-
+owner=512625982751113216
+prefix=--
 stayinchannel=true
-
